@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Muhammed Yılmaz.I am  a student at Maltepe University
+Skills:c,java,python,c#,Sql,html,css,javascript
+📫 How to reach me: muhammedyilmazyilmaz@gmail.com
 
 <!--
 **Hassma21/Hassma21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
